@@ -1,10 +1,4 @@
-# Git commands
+# Expensify App
 
-git init - create a new git repository
-git status - view the changes to your project code
-git add - add files to staging area
-git commit - creates a new commit with files from stagging area
-git log - view recent commits
+App that manages users expenses, using React, redux, react router, jest, enzyme, firebase.
 
-
-// in devDependencies din package.json avem chestiile de care nu avem nevoie in Heroku
